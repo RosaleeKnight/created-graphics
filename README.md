@@ -11,5 +11,4 @@ Every badge I've made on GitHub. Used both on my readme profile and my project l
 
 
 # 📊 Stats
-![GitHub last commit](https://img.shields.io/github/last-commit/RosaleeKnight/created-graphics)
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/created-graphics.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/created-graphics)
